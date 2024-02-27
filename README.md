@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about scientific studies about longevity supplements, AI programming interfaces for web applications, ChatGPT interface with Consensus for health research
 - 📫 How to reach me wsseery@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have many different interests and careers
+- ⚡ Fun fact: I have had several different careers, always learning and growing
 
 <!---
 wsseery/wsseery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
