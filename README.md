@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wsseery
 - 👀 I’m interested in health, wellness, longevity, venture capital, investing, AI, music, art, mental health, parenting
-- 🌱 I’m currently learning Django, Python, and scientific studies about rapamycin, and supplements 
+- 🌱 I’m currently learning about scientific studies about longevity supplements, AI programming interfaces for web applications, ChatGPT interface with Consensus for health research
 - 📫 How to reach me wsseery@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have many different interests and careers
